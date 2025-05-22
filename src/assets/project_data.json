@@ -1,0 +1,34 @@
+[
+    {
+        "id":"1",
+        "title":"Cyclistic Bikeshare Analysis: Differences Between Casual and Member Riders",
+        "image":"bikeshare_photo.jpg",
+        "description":"In this project, I analyze bikeshare data of a fictional company called Cyclistic, using Kaggle, R, and Tableau to tell the story of how annual members and casual riders use Cyclistic bikes differently and provide three recommendations.",
+        "technologies": ["Tableau","R","Kaggle"],
+        "url": "/projects?id=cyclistic-bikeshare"
+    },
+    {
+        "id":"2",
+        "title":"Apex Legends Tournament Earnings Analysis: What does it take to make a living?",
+        "image":"apex_legends.jpg",
+        "description":"In this project, I use Python and Power BI to consolidate and present Apex Legends player tournament earnings data to find insights into what it takes to make a living competing in Apex Legends tournaments.",
+        "technologies": ["Power BI","Python","Kaggle"],
+        "url": "/projects?id=apex-legends-tournament-earnings"
+    },
+    {
+        "id":"3",
+        "title":"Photomosaic Builder with Python and ML",
+        "image":"juliet_upside_down_output.jpg",
+        "description":"In this project, I use Python and Machine Learning concepts including Principal Component Analysis and KMeans Clustering to create a photomosaic builder, rebuilding an image from thousands of smaller images.",
+        "technologies": ["Python","Machine Learning","Image Processing"],
+        "url": "/projects?id=photomosaic-builder"
+    },
+    {
+        "id":"4",
+        "title":"Little Lemon Home and Booking Page with React",
+        "image":"little_lemon_booking.jpg",
+        "description":"In this project, I use Figma, React, Javascript, and CSS to design the front end of a home page and reservation booking page, a portion of a website for the Little Lemon mediterranean restaurant.",
+        "technologies": ["Figma","React","Javscript","CSS"],
+        "url": "/projects?id=little-lemon-booking"
+    }
+]

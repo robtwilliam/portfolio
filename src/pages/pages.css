@@ -1,0 +1,39 @@
+h2 {
+    font-family: "Rubik";
+    /* background-color: #333333; */
+    line-height: 3rem;
+    /* border-radius: 10px; */
+    text-align: center;
+    font-weight: 450;
+    /* border: 1px solid #555555; */
+    font-size: 2rem;
+    margin-top: 4rem;
+    margin-bottom: 1rem;
+}
+
+@media screen and (max-width: 1100px) {
+    h2 {
+        border-radius: 0px;
+        border-left: 0px;
+        border-right: 0px;
+    }
+}
+
+.project {
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+.contact {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 1rem;
+}
+
+.contact > p > a {
+    color: yellow;
+}
+
+.contact > p > a:hover {
+  color: #007ba7;
+}

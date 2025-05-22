@@ -1,0 +1,75 @@
+[
+    {
+        "id": "1",
+        "company": "Intuit",
+        "image": "intuit_logo.jpg",
+        "title": "Business Data Analyst (Contract)",
+        "dates": "May 2024 - November 2024",
+        "technologies": "Tableau, Python, Databricks, SQL, Machine Learning",
+        "stakeholders": "Customer Success Management and Directors, Service Analytics, Program Managers, and Tax Standards Professionals",
+        "responsibilities": [
+            "Built and maintained end-to-end pipelines with SQL and Tableau dashboards for KPI reporting and initiative analysis.",
+            "Collaborated with stakeholders to perform exploratory and hypothesis-based analysis to develop and test initiatives to reduce customer serving time.",
+            "Built ML models to forecast KPIs and create predictive analyses based on customer features."
+        ],
+        "accomplishments": [
+            "Developed and presented a plan to reduce customer serving time for Full Service Business by 35%, enabling stakeholders to launch large-scale initiatives in their respective departments to <strong>save $3M+ in operating costs</strong>.",
+            "Use machine learning to find customer features most likely to increase customer serving time and presented the analysis to stakeholders in pricing and strategic decision-making, reshaping the conversation about Full Service Business service offerings and pricing."
+        ]
+    },
+    {
+        "id": "2",
+        "company": "Charter Communications",
+        "image": "charter_logo.png",
+        "title": "Senior Data and Reporting Analyst",
+        "dates": "Dec 2022 - Feb 2024",
+        "technologies": "Tableau, Plotly Dash, Python, SQL, MongoDB, PySpark, AWS, Linux On-Prem VM",
+        "stakeholders": "Director of Engineering, Program Managers, Managers, WiFi Engineers, Software Engineers, and Data Engineers",
+        "responsibilities": [
+            "Built and maintained end-to-end pipelines for WiFi performance test analysis.",
+            "Ideated and innovated with enginneers on how to best present performance test data in order to communicate defects and certify routers for production.",
+            "Maintained SLA requirements and transformed SLA data to be integrated in ETL pipelines and aggregated at multiple levels of detail for reporting.",
+            "Created clear documentation of processes and code, maintained a weekly scrum board, and managed stakeholder requests through JIRA."
+        ],
+        "accomplishments": [
+            "Developed a full end-to-end WiFi performance reporting system from scratch with Python, SQL, and Tableau, collaborating with WiFi engineers to evaulate and certify WiFi 6E Routers for production and <strong>automating 40+ hours weekly of manual work</strong>.",
+            "Collaborated with a team of data engineers to build an end-to-end reporting system proof of concept with AWS, Python, and Plotly Dash that was approved by the director for full scale development."
+        ]
+    },
+    {
+        "id": "3",
+        "company": "Spine & Sport",
+        "image": "spine_and_sport_logo.png",
+        "title": "Data Analyst",
+        "dates": "February 2022 - November 2022",
+        "technologies": "Yellowfin BI, SQL, Excel",
+        "stakeholders": "Board of Directors, Chief Officers, General Managers, and Directors",
+        "responsibilities": [
+            "Built and maintained reports and dashboards for multiple departments, including operations, marketing, administration, and finance.",
+            "Created star and snowflake data models to join data from tables in a redshift database to meet the reporting metric, KPI, and dimensionality requirements of each department.",
+            "Worked with data engineers to ensure data integrity, providing feedback of inaccurate data and receiving feedback on logic required to gather certain data requirements."
+        ],
+        "accomplishments": [
+            "Worked with a director to build a dashboard that provided insight into physical therapist billing practices and its impact on net revenue per visit. This dashboard was used to educate therapists on best billing practices and <strong>resulted in an overall increase of 5%+ net revenue per visit for the entire company</strong>.",
+            "Built an automated KPI dashboard system that created PDF reports and sent them weekly by email to Chief Officers, General Managers, and Directors, so they could conveniently review the numbers and start their week by having informed, data-driven discussions."
+        ]
+    },
+    {
+        "id": "4",
+        "company": "Jet & Walmart eCommerce",
+        "image": "walmart_jet_logo.jpeg",
+        "title": "Category Analyst",
+        "dates": "August 2017 - June 2019",
+        "technologies": "Looker, SQL, Excel, Powerpoint",
+        "stakeholders": "General Managers, Directors, Managers, and Vendors",
+        "responsibilities": [
+            "Analyzed category data to develop seasonal and promotional pricing, brand strategies, inventory estimates, and category listing page tactics.",
+            "Presented analysis to vendors and upper management for top brands in the power tools industry to strengthen relationships and have discussions on improving category performance.",
+            "Maintained category data, joining, cleaning, organizing and transforming the data as necessary to create accurate, insightful reports and presentations."
+        ],
+        "accomplishments": [
+            "<strong>Grew category 20%+ yearly while maintaining a target profit margin</strong>, adding new relationships with vendors, and keeping management informed of performance to target.",
+            "Performed an analysis estimating the future of a strategic, 7-figure ARR vendor’s top and bottom line impact on our category’s assortment that was presented to C-Suite executives to decide whether or not to keep the vendor or create a private label brand."
+        ]
+    }
+]

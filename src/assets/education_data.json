@@ -1,0 +1,88 @@
+[
+    {
+        "id": "1",
+        "title": "Business Economics, Bachelor of Arts",
+        "image": "ucla_logo.jpeg",
+        "school": "University of California, Los Angeles",
+        "dates": "Aug 2015 - Jun 2017",
+        "topics": "Economics, Finance, Investing, Mathematics",
+        "courses": [
+            "Microeconomics, Macroeconomics, Econometrics",
+            "Technology and Ecommerce, Social Entrepreneurship, Entrepreneurship",
+            "Music Business, Corporate and Partnership Taxation"
+        ],
+        "accomplishments": [
+            "Summa Cum Laude",
+            "4.0 GPA"
+        ]
+    },
+    {
+        "id": "2",
+        "title": "Google Data Analytics Professional Certificate",
+        "image": "google_logo.png",
+        "school": "Coursera, Google",
+        "dates": "February 2023",
+        "topics": "Data Analysis, R, SQL, Data Visualization, Tableau, General Statistics",
+        "courses": [
+            "Ask Questions to Make Data-Driven Decisions",
+            "Prepare Data for Exploration",
+            "Process Data from Dirty to Clean",
+            "Analyze Data to Answer Questions",
+            "Share Data Through the Art of Visualization",
+            "Data Analysis with R Programming"
+        ]
+    },
+    {
+        "id": "3",
+        "title": "Python 3 Programming Specialization",
+        "image": "University_of_Michigan_Logo.png",
+        "school": "Coursera, University of Michigan",
+        "dates": "Nov 2022",
+        "topics": "Computer Programming, Python Programming, Problem Solving",
+        "courses": [
+            "Python Functions, Files, and Dictionaries",
+            "Data Collection and Processing with Python",
+            "Python Classes and Inheritance"
+        ]
+    },
+    {
+        "id": "4",
+        "title": "Applied Data Science with Python Specialization",
+        "image": "University_of_Michigan_Logo.png",
+        "school": "Coursera, University of Michigan",
+        "dates": "April 2024",
+        "topics": "Data Analysis, Data Mining, Algorithms, Machine Learning, Statistical Programming",
+        "courses": [
+            "Applied Plotting, Charting, & Data Representation in Python",
+            "Applied Machine Learning in Python",
+            "Applied Text Mining in Python",
+            "Applied Social Network Analysis in Python"
+        ]
+    },
+    {
+        "id": "5",
+        "title": "Machine Learning Specialization",
+        "image": "deeplearning_logo.jpg",
+        "school": "Coursera, Stanford, DeepLearning.AI",
+        "dates": "February 2025",
+        "topics": "Machine Learning Algorithms, Deep Learning, Artificial Neural Networks, Statistical Machine Learning",
+        "courses": [
+            "Supervised Machine Learning: Regression and Classification",
+            "Advanced Learning Algorithms",
+            "Unsupervised Learning, Recommenders, Reinforcement Learning"
+        ]
+    },
+    {
+        "id": "6",
+        "title": "Front-end and Back-End Developer Professional Certificates",
+        "image": "meta_logo.png",
+        "school": "Coursera, Meta",
+        "dates": "February 2025",
+        "topics": "HTML and CSS, Javascript, React, Python, Django, Web Design, Database Design",
+        "courses": [
+            "Programming with Javascript, HTML & CSS in Depth, Advanced React",
+            "Principles of UX/UI Design, Version Control",
+            "Django Web Framework, APIs, Databases for Back-end Development, The Full Stack"
+        ]
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id":"1",
+        "title":"Juliet Upside Down",
+        "original":"juliet_upside_down.png",
+        "photomosaic":"juliet_upside_down_output.jpg"
+    },
+    {
+        "id":"2",
+        "title":"Graduation Photo",
+        "original":"rob_sample.jpg",
+        "photomosaic":"rob_sample_output.jpg"
+    },
+    {
+        "id":"3",
+        "title":"Cat From the Wrong Side of the Tracks (Dr. Seuss)",
+        "original":"seuss.avif",
+        "photomosaic":"seuss_output.jpg"
+    },
+    {
+        "id":"4",
+        "title":"The Portrait of Dorian Gray (Basil Hallward)",
+        "original":"dorian_gray.jpg",
+        "photomosaic":"dorian_gray_output.jpg"
+    }
+]
