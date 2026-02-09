@@ -1,6 +1,25 @@
 [
-    {
+        {
         "id": "1",
+        "company": "CHOC Chidren's",
+        "image": "choc_childrens_logo.png",
+        "title": "BI Data Analyst",
+        "dates": "Jun 2025 - Current",
+        "technologies": "Tableau, Python, Databricks, SQL",
+        "stakeholders": "Finance, Clinical, Administrative, and Operations Directors and Managers",
+        "responsibilities": [
+            "Leading end-to-end design and development of enterprise analytics solutions in a Databricks and Tableau environment, supporting hundreds of business users across a multi-facility organization and integrating data from three source systems totaling hundreds of millions of rows.",
+            "Designing gold layer data models from cleansed silver layer data to support performant Tableau reporting, while re-architecting legacy dashboards and establishing best practices for extracts, LODs, and parameters.",
+            "Acting as a technical leader and mentor by training 3+ analysts and delivering formal Tableau training sessions for stakeholders."
+        ],
+        "accomplishments": [
+            "Re-architected a legacy analytics pipeline by <strong>collapsing 49+ intermediate tables into one curated model</strong>, significantly reducing technical debt and simplifying downstream consumption.",
+            "Established gold-layer data modeling and Tableau development standards, improving consistency, performance, and long-term scalability of analytics deliverables."
+        ]
+
+    },
+    {
+        "id": "2",
         "company": "Intuit",
         "image": "intuit_logo.jpg",
         "title": "Business Data Analyst (Contract)",
@@ -18,7 +37,7 @@
         ]
     },
     {
-        "id": "2",
+        "id": "3",
         "company": "Charter Communications",
         "image": "charter_logo.png",
         "title": "Senior Data and Reporting Analyst",
@@ -37,7 +56,7 @@
         ]
     },
     {
-        "id": "3",
+        "id": "4",
         "company": "Spine & Sport",
         "image": "spine_and_sport_logo.png",
         "title": "Data Analyst",
@@ -55,7 +74,7 @@
         ]
     },
     {
-        "id": "4",
+        "id": "5",
         "company": "Jet & Walmart eCommerce",
         "image": "walmart_jet_logo.jpeg",
         "title": "Category Analyst",
